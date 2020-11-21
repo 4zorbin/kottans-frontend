@@ -1,5 +1,6 @@
 # kottans-frontend
-# Front-End Course.
+***   
+
 ### Contents
 
 ### Stage 0. Self-Study  
