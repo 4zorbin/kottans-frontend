@@ -6,11 +6,10 @@
 ### Stage 0. Self-Study  
 #####  <em> Preparatory stage of Front-End Course. Following tasks should be completed to join main course.</em>  
 ***
-### General 
- 
 
-+ Git Basics  
-+ Linux CLI and Networking  
+###  General 
+- [Git Basics](#gitintro),[DONE]
+- [Linux CLU](#Linux),  
 + VCS (hello gitty), GitHub and Collaboration  
 
 ***
@@ -63,3 +62,21 @@
 ### TypeScript    
 ***
 ### Soft Skills  
+<<<<<<< HEAD
+  
+    
+      
+    -
+***
+## <a name="gitintro">Git Intro</a> 
+
+  ###  <em>After completing this course I discovered many new commands for myself in Git. It turns out that I didn't know this topic well.</em>
+![git and gitHub intro](./img/Udacity.png)  
+![git and gitHub intro](./img/learngitbranching.png) 
+![git and gitHub intro](./img/learngitbranching2.png)
+  
+
+***  
+
+## <a name="Linux">Linux CLU</a>
+=======
