@@ -6,11 +6,10 @@
 ### Stage 0. Self-Study  
 #####  <em> Preparatory stage of Front-End Course. Following tasks should be completed to join main course.</em>  
 ***
-
 ###  General 
-- [Git Basics](#gitintro),[DONE]
-- [Linux CLU](#Linux),  
-+ VCS (hello gitty), GitHub and Collaboration  
+- [##  Git Basics](#gitintro),[DONE]
+- [##  Linux CLI, and HTTP](#Linux), [DONE]
+- [##  Git Collaboration](#Git_collab);
 
 ***
   
@@ -62,21 +61,31 @@
 ### TypeScript    
 ***
 ### Soft Skills  
-<<<<<<< HEAD
+
   
     
       
-    -
+    
 ***
 ## <a name="gitintro">Git Intro</a> 
 
   ###  <em>After completing this course I discovered many new commands for myself in Git. It turns out that I didn't know this topic well.</em>
-![git and gitHub intro](./img/Udacity.png)  
-![git and gitHub intro](./img/learngitbranching.png) 
-![git and gitHub intro](./img/learngitbranching2.png)
+![Udacity](./img/Udacity.png)  
+![learngitbranching](./img/learngitbranching.png) 
+![learngitbranching](./img/learngitbranching2.png)
   
 
 ***  
 
-## <a name="Linux">Linux CLU</a>
-=======
+## <a name="Linux">## Linux CLI, and HTTP</a>
+
+###  <em>Refreshed my knowledge of Linux commands and had a good time reading about http protocols. A lot of information that I did not know and still learn. Also I learned about printer control commands and others that I had not used before</em>  
+   
+![Linux CLI, and HTTP](./task_linux_cli/q1.png)  
+![Linux CLI, and HTTP](./task_linux_cli/q2.png)  
+![Linux CLI, and HTTP](./task_linux_cli/q3.png)  
+![Linux CLI, and HTTP](./task_linux_cli/q4.png)    
+***  
+
+## <a name="Git_collab">##  Git Collaboration</a>
+
