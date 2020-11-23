@@ -9,7 +9,7 @@
 ###  General 
 - [##  Git Basics](#gitintro),[DONE]
 - [##  Linux CLI, and HTTP](#Linux), [DONE]
-- [##  Git Collaboration](#Git_collab);
+- [##  Git Collaboration](#Git_collab); [DONE]
 
 ***
   
@@ -88,4 +88,14 @@
 ***  
 
 ## <a name="Git_collab">##  Git Collaboration</a>
+   
+### <em>I know the necessary commands and operations, but not all of them, and therefore I will practice and review the materials. A very useful thing. Thanks</em>
+####  I didn't know commands like <b>Fetch, Rebase, Cherry-pick,</b> and others that I will definitely use in my work in the feature.
+
+
+
+![Git Collaboration](./task_git_collaboration/Git_collab.png)   
+
+
+***  
 
