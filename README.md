@@ -109,7 +109,7 @@
 <summary>
 <a name="html-css">Intro to HTML and CSS</a>
 
-<em>I've never used a grid before. Flex also has always been a problem and remains difficult for me.</em>
+###  <em>I've never used a grid before. Flex also has always been a problem and remains difficult for me.</em>
 </summary>
 
 ![HTML and CSS](./task_html_css_intro/html-udacity.png)    
@@ -121,7 +121,7 @@
 <details>
 <summary><a name="resp_web">Responsive Web Design</a>  
 
-  <em>It was a lot of fun to play with frogs.</em>
+  ###  <em>It was a lot of fun to play with frogs.</em>
   </summary>
 
   ![Responsive Web Design](./task_responsive_web_design/res-des.png)  
