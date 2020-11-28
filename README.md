@@ -16,7 +16,7 @@
 ### Front-End Basics   
    
 - [Intro to HTML and CSS](#html-css), [DONE]   
-+ Responsive Web Design  
+- [Responsive Web Design ](#resp_web), [DONE]
 + HTML & CSS Practice  
 + JavaScript Basics  
 + Document Object Model - practice 
@@ -62,57 +62,73 @@
 ***
 ### Soft Skills  
 
-  
-    
-      
-    
 ***
-## <a name="gitintro">Git Intro</a> 
+<details>
+<summary>
+<a name="gitintro">Git Intro</a> 
 
   ###  <em>After completing this course I discovered many new commands for myself in Git. It turns out that I didn't know this topic well.</em>
+  </summary>
+
 ![Udacity](./img/Udacity.png)  
 ![learngitbranching](./img/learngitbranching.png) 
 ![learngitbranching](./img/learngitbranching2.png)
   
+</details>
 
 ***  
-
-## <a name="Linux">Linux CLI, and HTTP</a>
+<details>
+<summary>
+<a name="Linux">Linux CLI, and HTTP</a>
 
 ###  <em>Refreshed my knowledge of Linux commands and had a good time reading about http protocols. A lot of information that I did not know and still learn. Also I learned about printer control commands and others that I had not used before</em>  
-   
+</summary>
+
 ![Linux CLI, and HTTP](./task_linux_cli/q1.png)  
 ![Linux CLI, and HTTP](./task_linux_cli/q2.png)  
 ![Linux CLI, and HTTP](./task_linux_cli/q3.png)  
 ![Linux CLI, and HTTP](./task_linux_cli/q4.png)    
-***  
+</details>
 
-## <a name="Git_collab">Git Collaboration</a>
+***
+<details>
+<summary>
+<a name="Git_collab">Git Collaboration</a>
    
 ### <em>I know the necessary commands and operations, but not all of them, and therefore I will practice and review the materials. A very useful thing. Thanks</em>
 ####  I didn't know commands like <b>Fetch, Rebase, Cherry-pick,</b> and others that I will definitely use in my work in the feature.
-
-
+</summary>
 
 ![Git Collaboration](./task_git_collaboration/Git_collab.png)   
 
+</details>
+
+***
+  
+<details>
+<summary>
+<a name="html-css">Intro to HTML and CSS</a>
+
+<em>I've never used a grid before. Flex also has always been a problem and remains difficult for me.</em>
+</summary>
+
+![HTML and CSS](./task_html_css_intro/html-udacity.png)    
+![HTML and CSS](./task_html_css_intro/HTMLcademy-grad.png)
+![HTML and CSS](./task_html_css_intro/htmlcademCSS.png)
+</details>
+
+***
+<details>
+<summary><a name="resp_web">Responsive Web Design</a>  
+
+  <em>It was a lot of fun to play with frogs.</em>
+  </summary>
+
+  ![Responsive Web Design](./task_responsive_web_design/res-des.png)  
+
+  ![Responsive Web Design](./task_responsive_web_design/frogg.png)
 
 ***  
 
-## <a name="html-css">Intro to HTML and CSS</a>
-
-####  <em>I've never used a grid also flex has always been a problem and remains difficult for me.</em>
   
-![HTML and CSS](./task_html_css_intro/html-udacity.png) 
-  
-
-
-    
-![HTML and CSS](./task_html_css_intro/HTMLcademy-grad.png)
-
-  
-
-![HTML and CSS](./task_html_css_intro/htmlcademCSS.png)
-***
-  
-  
+</details>
