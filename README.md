@@ -18,7 +18,7 @@
 - [Intro to HTML and CSS](#html-css), [DONE]
 - [Responsive Web Design ](#resp_web), [DONE]
 - [HTML & CSS Practice  ](#popup), [DONE]
-+ JavaScript Basics
+- [JavaScript Basics  ](#JS_Basics), [DONE]
 + Document Object Model - practice
 ***
 ### Advanced Topics
@@ -144,5 +144,18 @@
 
 ![HTML & CSS Practice](./html-css-popup/popupmenu.png)
 </details>
+
+  ****
+ <details>
+<summary><a name="JS_Basics"><h2>JavaScript Basics </h2></a>
+
+  ###  <em> !!!!!!!!!!!!!!!!!!!!!!!!!! </em>
+  </summary>
+
+
+![JavaScript Basics](./)
+</details>
+
+
 
   ****
